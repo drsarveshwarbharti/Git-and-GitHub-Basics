@@ -33,3 +33,46 @@ This repository is a beginner-friendly guide to understanding and using **Git** 
 1. **Initialize a Repository**
    ```bash
    git init
+
+
+2. **Stage and Commit Files**
+   ```bash
+   git add .
+   git commit -m "Initial commit"
+
+
+3. **Connect to GitHub**
+   ```bash
+   git remote add origin https://github.com/username/repository.git
+   git push -u origin main
+   
+
+💡 **Why Use Git & GitHub?**
+
+      Track changes in your code
+
+      Work on projects with multiple collaborators
+
+      Revert to earlier versions easily
+  
+      Showcase your projects online
+
+      Contribute to open-source
+
+📌 **Resources**
+
+      Official Git Documentation
+
+      GitHub Guides
+
+      Learn Git Branching (Interactive)
+
+📌 **Resources**
+
+      Official Git Documentation
+
+      GitHub Guides
+
+      Learn Git Branching (Interactive)
+
+⭐️ This repository is for educational purposes. Contributions are welcome!
