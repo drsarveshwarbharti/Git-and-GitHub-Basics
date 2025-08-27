@@ -67,12 +67,5 @@ This repository is a beginner-friendly guide to understanding and using **Git** 
 
       Learn Git Branching (Interactive)
 
-📌 **Resources**
-
-      Official Git Documentation
-
-      GitHub Guides
-
-      Learn Git Branching (Interactive)
 
 ⭐️ This repository is for educational purposes. Contributions are welcome!
