@@ -1,4 +1,4 @@
-#### Git WorkFlow (Pictoral Representation)
+#### Git WorkFlow (Flowchart Representation)
 ---
 ```mermaid
 flowchart LR
