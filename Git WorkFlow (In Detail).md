@@ -83,14 +83,3 @@
     git diff                            # see changes
     git stash                           # save work temporarily
     git stash pop                       # bring it back
-
-
-#### ✅ This Git Cheatsheet gives you:
-
-Visual + ASCII workflow
-
-Basic commands
-
-Branching, merging, rebasing
-
-Undo & troubleshooting tools
