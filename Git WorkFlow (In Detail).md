@@ -18,7 +18,7 @@
 
 ### Basic Git Commands
 
-##### 1. Setup identity
+#### 1. Setup identity
 
     git config --global user.name "Your Name"
 
