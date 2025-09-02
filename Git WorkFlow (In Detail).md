@@ -31,7 +31,7 @@
 #### 3. Clone repo
     git clone https://github.com/username/repository.git
 
-### Git Workflow
+#### 4. Git Workflow
     git status
     git add file.txt
     git commit -m "message"
